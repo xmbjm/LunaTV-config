@@ -342,7 +342,7 @@ console.log(`Request from: ${request.headers.get('cf-connecting-ip')}`)
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-11-03 07:50 CST）
+## API 状态（最近更新：2026-11-04 06:15 CST）
 
 - 总 API 数量：74
 - 成功 API 数量：63
@@ -420,8 +420,8 @@ console.log(`Request from: ${request.headers.get('cf-connecting-ip')}`)
 | ✅ | 🔞玉兔资源 | [Link](https://apiyutu.com) | [Link](https://apiyutu.com/api.php/provide/vod) | ✅ | 29 | 1 | 96.7% | ✅✅✅✅✅✅✅ |
 | ✅ | 🔞黄色仓库 | [Link](https://hsckzy.xyz) | [Link](https://hsckzy.xyz/api.php/provide/vod) | ✅ | 29 | 1 | 96.7% | ✅✅✅✅✅✅✅ |
 | ✅ | 🔞大地资源 | [Link](https://dadizy11.com) | [Link](https://dadiapi.com/feifei) | ❌ | 28 | 2 | 93.3% | ✅✅✅✅✅✅✅ |
-| 🚨 | 🎬豆瓣资源 | [Link](https://dbzy.tv) | [Link](https://caiji.dbzy5.com/api.php/provide/vod) | ❌ | 25 | 5 | 83.3% | ✅✅❌❌❌❌❌ |
-| ✅ | 🔞鲨鱼资源 | [Link](https://shayuapi.com) | [Link](https://shayuapi.com/api.php/provide/vod) | ✅ | 20 | 10 | 66.7% | ✅✅✅✅✅✅✅ |
+| 🚨 | 🎬豆瓣资源 | [Link](https://dbzy.tv) | [Link](https://caiji.dbzy5.com/api.php/provide/vod) | ❌ | 24 | 6 | 80.0% | ✅❌❌❌❌❌❌ |
+| ✅ | 🔞鲨鱼资源 | [Link](https://shayuapi.com) | [Link](https://shayuapi.com/api.php/provide/vod) | ✅ | 21 | 9 | 70.0% | ✅✅✅✅✅✅✅ |
 | 🚨 | 🎬百度云zy | [Link](https://bdzy1.com) | [Link](https://pz.v88.qzz.io/?url=https://api.apibdzy.com/api.php/provide/vod) | ❌ | 0 | 30 | 0.0% | ❌❌❌❌❌❌❌ |
 | 🚨 | 🎬艾旦影视 | [Link](https://lovedan.net) | [Link](https://pz.v88.qzz.io/?url=https://lovedan.net/api.php/provide/vod) | ❌ | 0 | 30 | 0.0% | ❌❌❌❌❌❌❌ |
 | 🚨 | 🎬金蝉影视 | [Link](https://zy.jinchancaiji.com) | [Link](https://zy.jinchancaiji.com/api.php/provide/vod) | ❌ | 0 | 30 | 0.0% | ❌❌❌❌❌❌❌ |
